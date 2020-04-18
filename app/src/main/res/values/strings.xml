@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Musical App</string>
+    <string name="back_button">back</string>
+    <string name="play_button">play</string>
+</resources>
